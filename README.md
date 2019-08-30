@@ -10,3 +10,6 @@ The related description is available at :
 
 3. Adding dependency of one library ( Module ) to another library ( Module ) in Android : Creating AAR library for Android Part 3
    https://www.lynxbee.com/adding-dependency-of-one-library-module-to-another-library-module-in-android-creating-aar-library-for-android-part-3/
+
+4. Include an External precompiled AAR library Using Gradle and Android Studio – Part 4
+   https://www.lynxbee.com/include-an-external-precompiled-aar-library-using-gradle-and-android-studio/
